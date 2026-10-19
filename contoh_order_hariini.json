@@ -1,0 +1,34 @@
+{
+  "accession_number": "2026082100001",
+  "filler_order_number": "FO-0002",
+  "placer_order_number": "PO-0002",
+  "admission_id": "AD-0002",
+  "station_ae_title": "DROC",
+  "station_name": "DROC-RUANG1",
+  "modality": "DX",
+  "scheduled_date_time": "2026-08-21T15:00:00.000000+07:00",
+  "requesting_service": "Radiologi",
+  "patient": {
+    "mrn": "0042871",
+    "other_id": "",
+    "name": "SITANGGANG^DIEGO SATRIA",
+    "dob": "1990-05-10T00:00:00.000000+07:00",
+    "address": "",
+    "phone": "",
+    "sex": "M",
+    "weight": 70,
+    "height": 170
+  },
+  "referring_physician": { "name": "dr. Contoh Dokter" },
+  "requesting_physician": { "name": "dr. Contoh Dokter" },
+  "requested_procedure": {
+    "id": "P3-0006",
+    "description": "Right Elbow AP + LAT",
+    "priority": "ROUTINE"
+  },
+  "scheduled_procedure_step": {
+    "id": "SPS-0002",
+    "description": "Right Elbow AP + LAT",
+    "start_date_time": "2026-08-21T15:00:00.000000+07:00"
+  }
+}

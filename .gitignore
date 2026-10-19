@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+logs/
+orders.db
+api_tokens.json
+orthanc_config.json
+*.log

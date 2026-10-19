@@ -1,0 +1,34 @@
+{
+  "accession_number": "2026091400001",
+  "filler_order_number": "FO-0003",
+  "placer_order_number": "PO-0003",
+  "admission_id": "AD-0003",
+  "station_ae_title": "DROC",
+  "station_name": "DROC-RUANG1",
+  "modality": "DX",
+  "scheduled_date_time": "2026-09-14T10:00:00.000000+07:00",
+  "requesting_service": "Radiologi",
+  "patient": {
+    "mrn": "0051234",
+    "other_id": "",
+    "name": "WIJAYA^RATNA",
+    "dob": "1985-03-12T00:00:00.000000+07:00",
+    "address": "",
+    "phone": "",
+    "sex": "F",
+    "weight": 58,
+    "height": 160
+  },
+  "referring_physician": { "name": "dr. Contoh Dokter" },
+  "requesting_physician": { "name": "dr. Contoh Dokter" },
+  "requested_procedure": {
+    "id": "P3-0012",
+    "description": "Chest PA",
+    "priority": "ROUTINE"
+  },
+  "scheduled_procedure_step": {
+    "id": "SPS-0003",
+    "description": "Chest PA",
+    "start_date_time": "2026-09-14T10:00:00.000000+07:00"
+  }
+}
